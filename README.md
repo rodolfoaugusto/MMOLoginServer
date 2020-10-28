@@ -23,7 +23,7 @@ $ npm start
 ### Fixes
 > Connection crashs against different clients
 
-## Non-Support (removed, check the original repo from Kondra)
+## Non-Support (removed, check the original repo)
 > Casts
 > Cams
 > HTTP Login
