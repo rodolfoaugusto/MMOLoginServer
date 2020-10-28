@@ -1,0 +1,30 @@
+{
+  "id": 0,
+  "name": "Antica",
+  "host": "0.0.0.0",
+  "port": 7172,
+  "preview": false,
+  "location": "Germany",
+  "pvptype": 1,
+  "status_port": 7100,
+  "maxplayers": 3000,
+  "monsters": 6666,
+  "npcs": 666,
+  "owner": {
+    "name": "xxx",
+    "email": "support@xxx.com"
+  },
+  "rates": {
+    "experience": "1",
+    "skill": "1",
+    "loot": "1",
+    "magic": "1",
+    "spawn": "1"
+  },
+  "map": {
+    "name": "Tibia",
+    "author": "xxx",
+    "width": "65000",
+    "height": "65000"
+  }
+}

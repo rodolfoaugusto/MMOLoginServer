@@ -1,0 +1,29 @@
+{
+  "name": "open-tibia-login-server",
+  "version": "0.1.0",
+  "description": "OpenTibiaLoginServer",
+  "main": "build/app.js",
+  "author": {
+    "name": "otclient@otclient.ovh",
+    "url": "http://otclient.ovh"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "start": "node build/src/app.js",
+    "benchmark": "node build/tests/benchmark.js"
+  },
+  "devDependencies": {
+    "@types/mysql2": "github:types/mysql2",
+    "@types/node": "^8.0.14",
+    "@types/xml2js": "^0.4.5",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "ip-to-int": "^0.3.1",
+    "mysql2": "^2.1.0",
+    "otplib": "^12.0.1",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v17.3.0",
+    "xml2js": "^0.4.23"
+  }
+}

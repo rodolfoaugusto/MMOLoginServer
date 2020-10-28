@@ -1,0 +1,49 @@
+{
+  "serverName" : "LoginServer",
+  "url": "www.xxx.com",
+  "open" : false,
+  "multiWorld": true,
+  "currentClientVersion" : 2,
+  "keyFile": "key.pem",
+  "encryption": "sha1",
+  "version": {
+    "min": 772,
+    "max": 810
+  },
+  "motd": {
+    "id": 5,
+    "text": "Welcome to the LoginServer."
+  },
+  "mysql": {
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "",
+    "database": ""
+  },
+  "tcp": {
+    "enabled": true,
+    "host": "127.0.0.1",
+    "ports": [ 7171 ]
+  },
+  "http": {
+    "enabled": false,
+    "host": "127.0.0.1",
+    "ports": [ 80 ],
+    "ssl": {
+      "enabled": false,
+      "cert": "ssl_cert.pem",
+      "key": "ssl_key.pem",
+      "passphrase": ""
+    }
+  },
+  "limits": {
+    "connections": {
+      "interval": [ 10, 180 ],
+      "limit": [ 10, 60 ]
+    },
+    "authorizations": {
+      "interval": [ 60, 1800 ],
+      "limit": [ 5, 20 ]
+    }
+  }
+}
