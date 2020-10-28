@@ -28,5 +28,6 @@ $ npm start
 - Casts
 - Cams
 - HTTP Login
+- WebSocket
 
 > Edited build of TypeScript project from https://github.com/OTCv8/OpenTibiaLoginServer
