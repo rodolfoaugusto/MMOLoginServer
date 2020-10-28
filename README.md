@@ -8,7 +8,8 @@ MMO Login server using TCP - Support to multi instancies.
 > RSA PEM keys
 > Proxy
 
-```js
-- Thats a edited build of TypeScript project from https://github.com/OTCv8/OpenTibiaLoginServer
-```
+### Fixes
+> Connection crashs against different clients
+
+- Edited build of TypeScript project from https://github.com/OTCv8/OpenTibiaLoginServer
 
