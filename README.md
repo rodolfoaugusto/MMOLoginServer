@@ -7,15 +7,14 @@ MMO Login server using TCP - Support to multiple instances.
 > NodeJS
 
 ### How-to-Install
-> Open project folder
-> Run command
+- Open project folder
+- Run command
 ```console
 $ npm install
 $ npm start
 ```
 
 ### Support
-
 - Client Protocols 7.70 - 8.10
 - Multi game world
 - RSA PEM keys
