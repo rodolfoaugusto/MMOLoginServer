@@ -15,6 +15,7 @@ $ npm start
 ```
 
 ### Support
+
 > Client Protocols 7.70 - 8.10
 > Multi game world
 > RSA PEM keys
@@ -24,7 +25,6 @@ $ npm start
 > Connection crashs against different clients
 
 ## Non-Support (removed, check the original repo)
-
 > Casts
 > Cams
 > HTTP Login
