@@ -1,5 +1,3 @@
-*.js linguist-detectable=true
-
 # MMOLoginServer
 MMO Login server using TCP - Support to multi instancies.
 
@@ -11,6 +9,6 @@ MMO Login server using TCP - Support to multi instancies.
 > Proxy
 
 ```js
-- That's a edited build of TypeScript project from https://github.com/OTCv8/OpenTibiaLoginServer
+- Thats a edited build of TypeScript project from https://github.com/OTCv8/OpenTibiaLoginServer
 ```
 
