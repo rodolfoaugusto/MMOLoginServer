@@ -20,7 +20,7 @@ $ npm start
 - RSA PEM keys
 - Proxy
 
-### Fixes
+### Important Fixes
 - Connection crashs against different clients
 
 ## Non-Support (removed, check the original repo)
