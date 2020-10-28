@@ -15,11 +15,17 @@ $ npm start
 ```
 
 ### Support
+> Client Protocols 7.70 - 8.10
 > Multi game world
 > RSA PEM keys
 > Proxy
 
 ### Fixes
 > Connection crashs against different clients
+
+# Non-Support (removed, check the original repo from Kondra)
+> Casts
+> Cams
+> HTTP Login
 
 - Edited build of TypeScript project from https://github.com/OTCv8/OpenTibiaLoginServer
