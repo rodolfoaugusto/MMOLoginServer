@@ -1,10 +1,9 @@
+*.js linguist-detectable=true
+
 # MMOLoginServer
 MMO Login server using TCP - Support to multi instancies.
 
 [![Build Status](https://travis-ci.org/mattcg/language-tags.png?branch=master)](https://travis-ci.org/mattcg/language-tags)
-
-*.js linguist-detectable=true
-*node linguist-detectable=true
 
 ### Support
 > Multi game world
